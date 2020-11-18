@@ -51,7 +51,7 @@ nbconvert==5.4.0
 nbformat==4.4.0
 networkx==2.2
 nltk==3.4
-notebook==5.7.2
+notebook==6.1.5
 numba==0.41.0
 numpy==1.15.4
 pandas==0.23.4
